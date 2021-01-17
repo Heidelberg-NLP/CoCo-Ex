@@ -1,3 +1,14 @@
+CoCo-Ex is a tool for extracting concepts from texts and linking them to the ConceptNet knowledge graph, developed by Maria Becker, Katharina Korfhage and Anette Frank from the NLP Lab at Heidelberg University. 
+
+CoCo-Ex extracts meaningful concepts from natural language texts and maps them to conjunct concept nodes in ConceptNet, utilizing the maximum of relational information stored in the ConceptNet knowledge graph. It takes into account the challenging characteristics of ConceptNet, namely that nodes are represented as non-canonicalized, free-form text. 
+
+A commonly used shortcut for mapping phrases from natural language text to ConceptNet is to apply string matching, but given the non-normalized nature of the concepts in ConceptNet, this can result in an incomplete and noisy mapping, and a lot of relational knowledge in ConceptNet gets lost. Instead, CoCo-Ex enables the extraction of meaningful, important rather than overspecific or uninformative concepts, and allows to assess more relational information stored in the knowledge graph.
+
+For questions or comments email Us: mbecker@cl.uni-heidelberg.de
+
+_____
+
+
 CoCo-Ex is written in Python and requires the following software components:
 
 - Python 3.6/3.7
