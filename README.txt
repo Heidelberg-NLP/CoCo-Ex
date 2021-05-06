@@ -47,4 +47,6 @@ python CoCo-Ex_overhead_filter.py --inputfile "path/to/outputfile_of_first_step.
 The thresholds for the individual similarity metrics can be set as command line parameters as shown above (1/10/0.85 is our paper configuration).
 The overhead filter currently only implements these three filters used in our paper. However, we will keep adding filters for the other similarity metrics to it in the future.
 
+The file concepts_en_lemmas.p can be downloaded here: https://drive.google.com/file/d/107CE0Mn1TJST7sPu0h1ru1YvvUypqStw/view?usp=sharing
+
 Feel free to contact us for any questions or issues!
