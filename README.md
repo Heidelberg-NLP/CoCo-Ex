@@ -8,7 +8,9 @@ A commonly used shortcut for mapping phrases from natural language text to Conce
 
 Check out our system demonstration video on Youtube: https://www.youtube.com/watch?v=bgqVhE2vR9A&feature=youtu.be
 
-For questions or comments email us: mbecker@cl.uni-heidelberg.de
+For questions or comments email us: maria.becker@gs.uni-heidelberg.de
+
+This project is licensed under the terms of the MIT license.
 
 _____
 
